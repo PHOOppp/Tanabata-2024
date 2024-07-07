@@ -21,16 +21,16 @@ body{
     url(final/written.png),
     url(final/foreframe.png),
     url(final/clouds_animated.gif),
-    url(final/bridgeandlovers.png),
     url(final/bamboofront_animated.gif),
-    url(final/moon_animated.gif),
+    url(final/bridgeandlovers.png),
     url(final/backframe.png),
     url(final/bambooback.png),
     url(final/sea_animated.gif),
+    url(final/moon_animated.gif),
     url(final/background.png);
-    background-size: cover,cover,cover,cover,cover,60%,cover,cover,cover,cover;
+    background-size: cover,cover,cover,cover,cover,cover,cover,cover,cover,cover;
     background-repeat: no-repeat;
-    background-position:top,top,top,top,top,50% 25%,top,top,top,top;
+    background-position:top,top,top,top,top,top,top,top,top,top;
     height: 120vh;
     overflow-y: auto;
     overflow-x: hidden;
