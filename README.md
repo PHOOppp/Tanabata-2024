@@ -1,6 +1,6 @@
 # Tanabata
 
-This GitHub is for the KVIS Tanabata website 2023 (7 July).
+This GitHub is for the KVIS Tanabata website 2024 (7 July).
 
 Note for other developers:
 
